@@ -1,0 +1,22 @@
+{
+  "name": "dasen",
+  "version": "1.0.0",
+  "description": "dssen's blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoshengsheng/dasen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoshengsheng/dasen/issues"
+  },
+  "homepage": "https://github.com/luoshengsheng/dasen#readme",
+  "dependencies" :{
+     "gitbook-plugin-disqus":"0.1.0"
+  }
+}
