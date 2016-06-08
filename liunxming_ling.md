@@ -1,4 +1,4 @@
-# liunx命令
-## source、.和sh执行命令的区别
+# 1、liunx命令
+## A、source、.和sh执行命令的区别
     
 
