@@ -5,4 +5,5 @@
    * [1.1 diyijie](c1s1.md)
 * java学习
 * [liunx学习](liunxxue_xi.md)
+   * 学习软件安装
 
