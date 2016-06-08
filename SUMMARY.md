@@ -8,5 +8,5 @@
    * [学习软件安装](xue_xi_ruan_jian_an_zhuang.md)
    * [liunx命令](liunxming_ling.md)
 * 日常学习
-   * 利用firekylin搭建一个博客
+   * [利用firekylin搭建一个博客](li_yong_firekylin_da_jian_yi_ge_bo_ke.md)
 
