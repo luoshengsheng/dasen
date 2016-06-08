@@ -6,5 +6,5 @@
 * java学习
 * [liunx学习](liunxxue_xi.md)
    * [学习软件安装](xue_xi_ruan_jian_an_zhuang.md)
-   * liunx命令
+   * [liunx命令](liunxming_ling.md)
 
